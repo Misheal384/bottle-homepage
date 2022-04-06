@@ -1,0 +1,196 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family:Amaranth;
+    background-color: #ffff;
+}
+
+label.logo{
+    color: black;
+    padding: 0px 0px 100px;
+    position: absolute;
+    width: 107px;
+height: 30px;
+left: 63px;
+top: 65px;
+
+font-family: Amaranth;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+    
+}
+
+
+ nav{
+     display: flex;
+     align-items: center; 
+     justify-content: space-between;
+     padding-top: 45px;
+     padding-left: 8%;
+     padding-right: 8%;
+ }  
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 25px;
+    }
+    
+ nav ul li a{
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: black;
+    
+     
+
+ }
+ nav ul li a:hover{
+     color: #0141B8;
+     transition: .4s;
+ }
+
+.btn{ 
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border: 9px solid transparent;
+    width: 150px;
+    font-size: 18px;
+     text-align: center;
+     border-radius: 60px;
+    
+
+        
+}
+.btn:hover{
+    transform: scale(1.1);
+}
+.content{
+    position: absolute;
+
+height: 81px;
+left: 194px;
+top: 225px;
+
+
+}
+ h3 {
+    font-family: Abril Fatface;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 60px;
+
+
+}  
+h1{
+    font-family: Abril Fatface;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+color: #0141B8;
+line-height: 70px;
+}
+
+p{
+    font-family: Amaranth;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+}
+button{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border: 9px solid transparent;
+    width: 150px;
+    font-size: 18px;
+     text-align: center;
+     border-radius: 60px;
+    
+}
+ .box{
+
+
+position: absolute;
+width: 394px;
+height: 426px;
+left: 759px;
+top: 225px;
+
+background: #FFFFFF;
+border: 2px solid rgba(0, 0, 0, 0.44);
+box-sizing: border-box;
+     
+     
+
+
+
+ }
+.box2{
+    position: relative;
+    width: 394px;
+    height: 426px;
+    left: 783px;
+    top: 160px;
+    background:url(file:///C:/Users/Misheal/Downloads/girl.jpg);
+    background-size:cover ;
+    background-position: center;
+    
+box-sizing: border-box;
+    
+}
+
+.icons1{
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 109px;
+top: 925px;
+
+}
+
+.icons2{
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 159px;
+top: 926px;
+
+}
+    
+.icons3{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 209px;
+top: 926px;
+
+}
+
+.product{
+    position: absolute;
+width: 98px;
+height: 25px;
+left: 679px;
+top: 896px;
+
+font-family: Amaranth;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+
+color: #000000;
+
+}
